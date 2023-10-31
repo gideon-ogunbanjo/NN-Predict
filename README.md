@@ -18,7 +18,7 @@ The Student Performance Prediction project is aimed at developing a deep learnin
 
 >I just used this to master regression using Neural Networks. Heres what i learned:
 1. The activation function for the output layer in regression problems is 'linear' because the primary objective in regression tasks is to predict a continuous numerical value (e.g., real numbers) rather than class labels or probabilities.
-2. Input Shape = Number of features considered for prediction.
-3. Hidden layers = 'relu'. ReLU is commonly used in hidden layers of neural networks for regression tasks due to its non-linearity, computational efficiency, sparsity, and reduced vanishing gradient problem.
+2. Input Shape = Number of features considered for prediction. In this case, 5 (Hours Studied, Previous Scores, Extracurricular Activities, Sleep Hours, Sample Question Papers Practiced).
+3. Hidden layer = 'relu'. ReLU is commonly used in hidden layers of neural networks for regression tasks due to its non-linearity, computational efficiency, sparsity, and reduced vanishing gradient problem.
 ### Creator
 Gideon Ogunbanjo
